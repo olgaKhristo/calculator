@@ -1,3 +1,11 @@
+This code sets up a simple command-line calculator that takes user input, performs calculations, and displays the results with different text colors based on whether the result is positive, negative, or zero. It continues to prompt the user for calculations until they choose to exit.
+
+to run this in Bush terminal please cd in folder an run :
+node index.js
+to start the calculaor
+
+
+
 # Scripts & libraries
 
 ## Organisation
